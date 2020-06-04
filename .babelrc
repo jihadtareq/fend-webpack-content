@@ -1,0 +1,2 @@
+//we're just going to add few configurations that will just set the preset babel
+{ 'presets':['@babel/preset-env'] }
