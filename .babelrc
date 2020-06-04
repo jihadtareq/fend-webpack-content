@@ -1,2 +1,2 @@
 //we're just going to add few configurations that will just set the preset babelrc
-{ 'presets':['@babel/preset-env'] }
+{ ‘presets’: ['@babel/preset-env'] }
